@@ -1,2 +1,4 @@
 hello world
 newBranch added
+newBranch deleted
+new added
